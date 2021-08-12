@@ -12,6 +12,6 @@ The audio in this release is sourced from the tv rips that have been floating ar
 
 For full details of the sources used please refer to the [nfo](https://github.com/turdEdition/JackassTV-turdEdition/blob/main/Jackass.TURD.Edition.v1.0.nfo).
 
-v1.0 can be directly downloaded from this [link](https://github.com/turdEdition/JackassTV-turdEdition/blob/main/Download%20Link.txt).
+v1.0 can be downloaded from this [link](https://github.com/turdEdition/JackassTV-turdEdition/blob/main/Download%20Link.txt).
 
 <sub>A backup link can be found in this [zip file](https://github.com/turdEdition/JackassTV-turdEdition/blob/main/JDownloader%20DLC.zip) - The contained instructions explain how to use this link file.</sub>
